@@ -55,4 +55,4 @@ A Power BI dashboard for tracking, analyzing, and visualizing credit card spendi
 
 ## Author
 
-*(Ritesh Panchal / )*
+*(Ritesh Panchal / https://github.com/riteshpanchal0906/Credit_Card_Financial_Dashboard/tree/main)*
