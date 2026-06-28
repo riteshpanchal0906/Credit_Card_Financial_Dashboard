@@ -15,19 +15,12 @@ A Power BI dashboard for tracking, analyzing, and visualizing credit card spendi
 ## Tech Stack
 
 - **Power BI** – Dashboard design, DAX measures, interactive visuals
-- **SQL** – Data storage, querying, and transformation (mention your DB, e.g. SQL Server / MySQL / PostgreSQL)
+- **SQL** – Data storage, querying, and transformation (HeidiSQL)
 
 ## Data Source
 
-- Brief note on where the data came from (e.g. sample/synthetic dataset, bank statement exports, etc.)
+- Brief note on where the data came from (Online Dataset from Bank)
 
-## Dashboard Preview
-
-*(Add screenshots of your Power BI dashboard here)*
-
-```
-![Dashboard Screenshot](screenshots/dashboard.png)
-```
 
 ## How to Use
 
